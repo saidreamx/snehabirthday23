@@ -146,6 +146,83 @@ const animationTimeline = () => {
       },
       "+=2"
     )
+  .to(
+      ".idea-6 span",
+      0.7,
+      {
+        rotation: 90,
+        x: 8
+      },
+      "+=0.4"
+    )
+  .to(
+      ".idea-7 span",
+      0.7,
+      {
+        rotation: 90,
+        x: 8
+      },
+      "+=0.4"
+    )
+  
+  .to(
+      ".idea-8 span",
+      0.7,
+      {
+        rotation: 90,
+        x: 8
+      },
+      "+=0.4"
+    )
+  
+  .to(
+      ".idea-9 span",
+      0.7,
+      {
+        rotation: 90,
+        x: 8
+      },
+      "+=0.4"
+    )
+  .to(
+      ".idea-10 span",
+      0.7,
+      {
+        rotation: 90,
+        x: 8
+      },
+      "+=0.4"
+    )
+  
+  .to(
+      ".idea-11 span",
+      0.7,
+      {
+        rotation: 90,
+        x: 8
+      },
+      "+=0.4"
+    )
+  
+  .to(
+      ".idea-12 span",
+      0.7,
+      {
+        rotation: 90,
+        x: 8
+      },
+      "+=0.4"
+    )
+  .to(
+      ".idea-13 span",
+      0.7,
+      {
+        rotation: 90,
+        x: 8
+      },
+      "+=0.4"
+    )
+  
     .staggerFrom(
       ".idea-6 span",
       0.8,
@@ -158,7 +235,7 @@ const animationTimeline = () => {
       0.2
     )
     .staggerTo(
-      ".idea-6 span",
+      ".idea-17 span",
       0.8,
       {
         scale: 3,
