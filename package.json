@@ -16,17 +16,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/faahim/happy-birthday.git"
+    "url": "git+https://github.com/saidreamx/snehabirthday23.git"
   },
   "keywords": [
     "Happy",
     "Birthday"
   ],
-  "author": "Afiur Rahman Fahim",
+  "author": "saidreamx",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/faahim/happy-birthday/issues"
+    "url": "https://github.com/saidreamx/snehabirthday23/issues"
   },
-  "homepage": "https://github.com/faahim/happy-birthday#readme",
+  "homepage": "https://github.com/saidreamx/snehabirthday23#readme",
   "dependencies": {}
 }
