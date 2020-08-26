@@ -146,18 +146,6 @@ const animationTimeline = () => {
       },
       "+=2"
     )
-  .to(
-      ".idea-6 span",
-      0.7,
-      {
-        rotation: 90,
-        x: 8
-      },
-      "+=0.4"
-    )
- 
- 
-  
     .staggerFrom(
       ".idea-6 span",
       0.8,
@@ -169,18 +157,20 @@ const animationTimeline = () => {
       },
       0.2
     )
+  
     .staggerTo(
-      ".idea-17 span",
+      ".idea-6 span",
       0.8,
       {
         scale: 3,
         opacity: 0,
-        rotation: -15,
+        rotation: 15,
         ease: Expo.easeOut
       },
-      0.2,
-      "+=1"
+      0.2
+    "+=1"
     )
+   
     .staggerFromTo(
       ".baloons img",
       2.5,
