@@ -157,18 +157,20 @@ const animationTimeline = () => {
       },
       0.2
     )
+  
     .staggerTo(
       ".idea-6 span",
       0.8,
       {
         scale: 3,
         opacity: 0,
-        rotation: -15,
+        rotation: 15,
         ease: Expo.easeOut
       },
-      0.2,
-      "+=1"
+      0.2
+    "+=1"
     )
+   
     .staggerFromTo(
       ".baloons img",
       2.5,
